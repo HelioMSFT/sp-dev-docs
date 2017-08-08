@@ -169,7 +169,7 @@ Open the **HelloWorld.module.scss** file in the **src\extensions\helloWorld** fo
 }
 
 ```
-Open the **HelloWorldFieldCustomizer.ts** file in the **src\extensions\helloWorld** folder and update the **onRednerCell** method as follows.
+Open the **HelloWorldFieldCustomizer.ts** file in the **src\extensions\helloWorld** folder and update the **onRenderCell** method as follows.
 
 ```
   @override
